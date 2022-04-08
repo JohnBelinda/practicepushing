@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="9.829">
+<testcase classname="Skillrary App" name="To login with valid credentials as Admin" time="9.637">
+<system-out><![CDATA[Given I want to open the app in chrome......................................passed
+And enter username as "admin"...............................................passed
+And enter password as "admin"...............................................passed
+Then click in the loginbutton...............................................passed
+And check more outcomes "SkillRary Admin"...................................passed
+]]></system-out>
+</testcase>
+</testsuite>
